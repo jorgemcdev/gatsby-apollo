@@ -13,7 +13,7 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 ## pages/index.js
 
-javascript```
+```
 // This query is executed at build time by Gatsby.
 export const GatsbyQuery = graphql`
   {
